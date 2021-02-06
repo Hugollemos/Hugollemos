@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Abstract
 
 - 👨‍💻 Estudante de ADS na estácio-ce.
-- 💙 Interesse front-end: html, css ,js e react.
+- 💙 Interesse no front-end: html, css ,js e react.
 
 
 ## Skills :nerd_face:
