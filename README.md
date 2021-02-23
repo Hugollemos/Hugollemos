@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <h2 align="center">Hello! I'm Hugo Lemos! :rocket: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## <h2 align="center">Hello! I'm Hugo Lemos! :man_technologist: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
 
-- 👨‍💻 Estudante de ADS na estácio-ce.
-- 💙 Estudando: html, css, e Javascript.
+- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas na estácio-ce.
+- :star2: Estudando tecnologias voltadas para o front-end. 
+- Brazilian-CE :cactus: :brazil:
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hugo-lemos-da-silva/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hugo-lemos-da-silva" height="30" width="40" /></a>
