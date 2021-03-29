@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Abstract
 
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas na estácio-ce.
-- :star2: Estudando JavaScript. 
+- :star2: Estudando Python. 
 - Brazilian-CE :cactus: :brazil:
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
