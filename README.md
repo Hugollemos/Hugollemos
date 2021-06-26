@@ -38,9 +38,6 @@
   <a href="https://github.com/Hugollemos">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a href="https://twitter.com/Hugollemos">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
    <a href="https://discord.gg/7Jve6zrJ4W">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
