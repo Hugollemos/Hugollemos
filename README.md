@@ -17,12 +17,6 @@
   </a>
 </p>
 
-### Minhas tecnologias :ok_hand:
-<p align="">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo"/>&nbsp;&nbsp;
-</p>
 
 ### Meus contatos :call_me_hand:
 <p align="">
