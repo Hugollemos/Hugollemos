@@ -32,15 +32,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   
-<p align="justify">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="justify"
+    <img align="center"
       src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hugollemos&show_icons=true&hide_border=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="justify"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugollemos&layout=compact&show_icons=true&hide_border=true"
     />
   </a>
