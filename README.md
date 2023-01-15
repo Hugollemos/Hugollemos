@@ -1,10 +1,4 @@
-
- 
-
-
-<img img align="center" src="https://user-images.githubusercontent.com/72999426/212550152-1c1abc13-4f58-43c9-9ad4-3c774f3d0b80.gif" width="" height="" />
-
-
+<img img align="center" src="https://user-images.githubusercontent.com/72999426/212550152-1c1abc13-4f58-43c9-9ad4-3c774f3d0b80.gif" width="1000" height="" />
 
 ### Languages & Tools 👨‍💻 🛠:
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -21,7 +15,6 @@
 ### DevOps :computer:
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Swarm](https://img.shields.io/badge/Swarm-FFA633.svg?style=for-the-badge&logo=Swarm&logoColor=black)
-
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9.svg?style=for-the-badge&logo=Portainer&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=Datadog&logoColor=white)
@@ -42,7 +35,6 @@
 ### challenge :
 [![codewars](https://www.codewars.com/users/Hugollemoss/badges/large)](https://www.codewars.com/users/Hugollemoss)
 
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"
@@ -58,8 +50,6 @@
 </p>
 
 ### Contact Me :
-![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![dev.to](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)
 
 <p align="">
  <a href="https://stackoverflow.com/users/17253904/hugo-lemos-da-silva">
