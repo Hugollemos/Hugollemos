@@ -34,19 +34,8 @@
 ### challenge :
 [![codewars](https://www.codewars.com/users/Hugollemoss/badges/large)](https://www.codewars.com/users/Hugollemoss)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center"
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hugollemos&show_icons=true&hide_border=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugollemos&layout=compact&show_icons=true&hide_border=true"
-    />
-  </a>
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugollemos&show_icons=true&theme=transparent)
 
 ### Contact Me :
 
