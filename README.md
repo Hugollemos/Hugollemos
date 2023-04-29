@@ -1,11 +1,9 @@
 <img img align="center" src="https://user-images.githubusercontent.com/72999426/212550152-1c1abc13-4f58-43c9-9ad4-3c774f3d0b80.gif" width="1000" height="" />
 
 ### Languages & Tools 👨‍💻 🛠:
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-FFD500.svg?style=for-the-badge&logo=Shell&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 ### systems 
 
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
@@ -18,18 +16,13 @@
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9.svg?style=for-the-badge&logo=Portainer&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=Datadog&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![sonargube ](https://img.shields.io/badge/sonargube-009639?style=for-the-badge&logo=sonargube&logoColor=black)
 
 ### studying :man_technologist: :hourglass_flowing_sand:	:mortar_board:
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Chef](https://img.shields.io/badge/Chef-EF9600?style=for-the-badge&logo=chef&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-2966CE?style=for-the-badge&logo=vagrant&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500.svg?style=for-the-badge&logo=Shell&logoColor=black)
 
 ### challenge :
 [![codewars](https://www.codewars.com/users/Hugollemoss/badges/large)](https://www.codewars.com/users/Hugollemoss)
