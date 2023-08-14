@@ -1,16 +1,10 @@
-<img img align="center" src="https://user-images.githubusercontent.com/72999426/212550152-1c1abc13-4f58-43c9-9ad4-3c774f3d0b80.gif" width="1000" height="" />
-
-### Languages & Tools 👨‍💻 🛠:
+### 👨‍💻 🛠:
 ![Shell](https://img.shields.io/badge/Shell-FFD500.svg?style=for-the-badge&logo=Shell&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### systems 
-
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 
-### DevOps :computer:
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Swarm](https://img.shields.io/badge/Swarm-FFA633.svg?style=for-the-badge&logo=Swarm&logoColor=black)
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -21,14 +15,20 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![sonargube ](https://img.shields.io/badge/sonargube-009639?style=for-the-badge&logo=sonargube&logoColor=black)
 
-### studying :man_technologist: :hourglass_flowing_sand:	:mortar_board:
 
-
-### challenge :
 [![codewars](https://www.codewars.com/users/Hugollemoss/badges/large)](https://www.codewars.com/users/Hugollemoss)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugollemos&show_icons=true&theme=transparent)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Hugollemos&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Hugollemos&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ### Contact Me :
 
